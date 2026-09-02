@@ -8,7 +8,7 @@ v0.1 Foundation
 
 ## Current Phase
 
-Foundation
+Foundation → Reader
 
 ---
 
@@ -19,18 +19,22 @@ Foundation
 - [x] Documentation folder created
 - [x] Design folder created
 - [x] Figma created
+- [x] Base theme tokens (color, spacing, typography)
+- [x] Reader prototype — Al-Fatihah, verse selection, inline contextual toolbar
+- [x] Quran data foundation — service + source abstraction, verified 114-surah
+      index, AlQuran.cloud adapter (see docs/07_Data.md)
 
 ---
 
 ## Current Task
 
-Design Reader Screen
+TBD — candidates: offline cache, surah navigation, design system
 
 ---
 
 ## Next Task
 
-Create Design System
+TBD
 
 ---
 
